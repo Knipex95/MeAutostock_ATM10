@@ -23,3 +23,9 @@ Stockpile [Amount] [Item]
 ```
 
 <img width="669" height="397" alt="image" src="https://github.com/user-attachments/assets/0ea07c36-e2d1-40be-9383-3c070cc35b9b" />
+
+If you get a error massages that you have multiple monitore you need to set the side with
+
+```
+set meautocraft.monitor "[side]"
+```
