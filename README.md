@@ -6,6 +6,10 @@ You need:
 2. Advance Monitor
 2. Me Bridge
 
+Example Build:
+<img width="1258" height="925" alt="image" src="https://github.com/user-attachments/assets/feb0542b-39d8-4c36-bc7d-17df3784138e" />
+
+
 Install to a advance PC:
 ```
 pastebin get pMRU9wr4 gitget
